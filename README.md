@@ -1,6 +1,5 @@
 ### Hi
-
-My name is Areeb Bhaila and today is Tuesday, 8 December, 21:51 GMT. I am from London and work as a Strategy consultant at Strategy&amp;, PwC.
+I am from London and work as a Strategy consultant at Strategy&amp;, PwC.
 
 I learnt how to code from the Le Wagon bootcamp.
 
