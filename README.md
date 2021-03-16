@@ -3,7 +3,7 @@ I am from London and work as a Strategy consultant at Strategy&amp;, PwC.
 
 I learnt how to code from the Le Wagon bootcamp.
 
-- 🔭  I’m currently working on building some personal projects like an API for 5G roll outs around the world, e-commerce website, gym booking system and fantasy premier league dashboard
+- 🔭  I’m currently working on building some personal projects like an e-commerce website, gym booking system and interview preparation site for graduates. 
 - 🌱  I’m currently learning JavaScript, Ruby on Rails and React
 
 Things I code with:
