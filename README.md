@@ -1,5 +1,5 @@
 ### Hi
-I am from London and work as a Strategy consultant at Strategy&amp;, PwC.
+I am from London and back-end engineer at Patchwork Health.
 
 I learnt how to code from the Le Wagon bootcamp.
 
