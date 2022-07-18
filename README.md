@@ -2,9 +2,8 @@
 I am from London and back-end engineer at Patchwork Health.
 
 I learnt how to code from the Le Wagon bootcamp.
-
-- 🔭  I’m currently working on building some personal projects like grad interview preparation site for grads and a facility booking website for an NGO. 
-- 🌱  I’m currently learning JavaScript and Ruby on Rails
+ 
+- 🌱  I’m currently learning React
 
 Things I code with:
 <br>
