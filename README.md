@@ -3,7 +3,7 @@ I am from London and back-end engineer at Patchwork Health.
 
 I learnt how to code from the Le Wagon bootcamp.
  
-- 🌱  I’m currently learning React
+- 🌱  I’m currently learning constraint optimisation
 
 Things I code with:
 <br>
